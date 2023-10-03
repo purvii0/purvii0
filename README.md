@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate computer science student diving into the world of web development, creating innovative digital experiences one line of code at a time.<br><br>
+I'm a passionate web developer in the making, committed to turning lines of code into functional and visually stunning websites. Constantly learning and growing in the world of web development. Let's connect, collaborate, and code together! 🚀🌐<br><br>
 💻 Aspiring web developer<br>
 📚 Lifelong learner<br>
 🌐 Enthusiastic about front-end and back-end technologies<br>
