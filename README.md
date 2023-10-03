@@ -1,10 +1,10 @@
 # 💫 About Me:
 Passionate computer science student diving into the world of web development, creating innovative digital experiences one line of code at a time.<br><br>
-💻 Aspiring web developer
-📚 Lifelong learner
-🌐 Enthusiastic about front-end and back-end technologies
-🚀 Committed to building user-friendly and responsive web applications
-🌈 Passionate about creating visually appealing designs
+💻 Aspiring web developer<br>
+📚 Lifelong learner<br>
+🌐 Enthusiastic about front-end and back-end technologies<br>
+🚀 Committed to building user-friendly and responsive web applications<br>
+🌈 Passionate about creating visually appealing designs<br>
 
 ## 🌐 Socials:
 I'm always excited to connect with fellow developers, learners, and anyone who shares a passion for web development. Feel free to reach out to me on <a href="www.linkedin.com/in/purvii0">LinkedIn</a> or via email at singhalpurvi05@gmail.com.
